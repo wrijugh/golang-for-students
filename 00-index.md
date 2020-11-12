@@ -1,6 +1,6 @@
 # Golang for Students
 
-Go Programming language for students. Learn Golang to keep uptodate 
+Go Programming language for students. Learn Golang to keep uptodate with the current software development.
 
 Work in progress...
 
@@ -8,5 +8,6 @@ Work in progress...
 
 ## Content
 
-- Introduction
-- 
+- [Introduction](01-introduction.md)
+- [Golang Keywords](02-go-keywords.md)
+- [Variables](03-variable.md)
